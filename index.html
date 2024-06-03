@@ -7,7 +7,7 @@
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
-        <!-- <div id="container">
+        <div id="container">
             <div id="navbar">
                 <h1>My potfolio</h1>
                 <div id="nav">
@@ -20,6 +20,20 @@
                     </ul>
                 </div>
             </div>
-        </div> -->
+        </div>
+        <div id="second">
+
+        </div>
+
+        <div id="third">
+            
+        </div>
+
+        <script>
+            window.addEventListener("scroll", function(){
+                let nav = document.querySelector("#navbar");
+                nav.classList.toggle("sticky", window.scrollY > 0);
+            });
+        </script>
     </body>
 </html>
