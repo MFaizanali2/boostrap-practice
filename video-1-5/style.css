@@ -22,3 +22,53 @@ html,body{
 .four{
     background-color: tomato;
 }
+
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    height: 100vh;
+}
+.container{
+    border: 4px solid #000;
+}
+.first{
+    background-color: red;
+}
+.second{
+    background-color: aqua;
+}
+.third{
+    background-color: blueviolet;
+}
+.four{
+    background-color: tomato;
+} */
+
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    height: 100vh;
+}
+.container{
+    border: 4px solid #000;
+}
+.first{
+    background-color: red;
+}
+.second{
+    background-color: aqua;
+}
+.third{
+    background-color: blueviolet;
+}
+.four{
+    background-color: tomato;
+} */
